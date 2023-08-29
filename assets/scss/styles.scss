@@ -1882,6 +1882,37 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Inner page
+--------------------------------------------------------------*/
+.inner-page h2 {
+  margin-bottom: 1em;
+  max-width: 80%;
+}
+
+.download-links {
+  margin-bottom: 1em;
+}
+
+.downloadbut {
+  background: #2c5070;
+  padding: 8px 20px;
+  margin-left: 1em;
+  border-radius: 4px;
+  color: #fff;
+}
+
+.downloadbut:hover {
+  color: #fff;
+  background: #73c2fb;
+}
+
+.divisor {
+  height: 2px;
+  width: 80%;
+  background: #2c5070;
+}
+
+/*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
 #footer {
